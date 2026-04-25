@@ -1,2 +1,2 @@
-# jusg
+# just
 think

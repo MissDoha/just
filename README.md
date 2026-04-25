@@ -1,2 +1,2 @@
 # just
-think
+think you are not in world
